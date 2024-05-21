@@ -5,6 +5,28 @@
 
 **Guidelines for the Written Test**
 
+The written section is closed book. You are permitted to bring:
+
+* Writing utensil, eraser, pencil sharpener
+* Scrap paper
+
+There are 14 questions, with a maximum score of 40:
+- Q1-1: 1 point
+- Q1-2: 1 point
+- Q1-3: 1 point
+- Q1-4: 1 point
+- Q1-5: 1 point
+- Q1-6: 2 points
+- Q1-7: 2 points
+- Q1-8: 2 points
+- Q1-9: 2 points
+- Q1-10: 2 points
+- Q1-11: 5 points
+- Q1-12: 5 points
+- Q1-13: 5 points
+- Q1-14: 5 points
+
+After the written section of the quiz is complete, students will be asked to hand in their written portion **before** opening their computers for the Grader Test.  
 
 **Guidelines for the Grader Test**
 
